@@ -1,0 +1,2 @@
+# Master-Details-CRUD-Pattern-for-.NET-Technologies
+A generic, reusable implementation of Master-Details CRUD operations that works across multiple .NET technologies including:  ADO.NET  ASP.NET MVC  ASP.NET Web API  ASP.NET Core  .NET Core Web API  .NET MAUI  This pattern provides a solid foundation for handling complex data relationships with transactional integrity and efficient image handling.
